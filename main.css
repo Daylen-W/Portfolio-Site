@@ -9,7 +9,7 @@ body{
 container{
 width: 800px;
 	margin: 0 auto;
-	background-color: #87ad98;
+	background-color: rgba(0,0,0,1.00)
 }
 
 .left{
