@@ -9,10 +9,24 @@ body{
 container{
 width: 800px;
 	margin: 0 auto;
+	background-color:#87ad98;
 }
 .left{
 	width:480px;
 	height: 200px;
 	background-color:#133625;
 	border-radius: 25px;
+	float: left;
+	margin: 8px 10px 0px 10px;
+}
+
+.right{
+	width:480px;
+	height: 200px;
+	background-color:#133625;
+	border-radius: 25px;
+	float: left;
+}
+footer{
+	
 }
