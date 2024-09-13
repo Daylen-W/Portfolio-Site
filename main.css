@@ -1,3 +1,9 @@
 @charset "utf-8";
 /* CSS Document */
 
+body{
+	background: url("SiteBackground.png") no-repeat fixed top right;}
+container{
+width: 800px;
+	margin: 0 auto;
+}
