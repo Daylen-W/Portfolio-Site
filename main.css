@@ -1,9 +1,16 @@
 @charset "utf-8";
 /* CSS Document */
-
+*{
+	box-sizing: border-box;
+}
 body{
-	background: url("sitebackground.png") no-repeat fixed top right;}
+	background: url("sitebackground.png") no-repeat fixed top right;
+}
 container{
 width: 800px;
 	margin: 0 auto;
+}
+.left{
+	width:480px;
+	height: 200px;
 }
