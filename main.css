@@ -52,3 +52,17 @@ header > h1{
 #container .right{
 	background-color: #56a87c
 }
+a:link{
+	text-decoration: none
+}
+a:visted{
+	text-decoration: none;
+	text-decoration-color:#B6FFB8;
+}
+a:hover{
+	text-decoration: underline;
+	text-decoration-color:#D2F8DC;
+}
+a:active{
+	text-decoration: underline;
+}
