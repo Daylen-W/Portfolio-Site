@@ -5,8 +5,12 @@
 }
 body{
 	background: url("sitebackground.png") no-repeat fixed center right;
-	width:1265;
-	height:695;
+	width:auto;
+	height:auto;
+	margin:auto;
+	left: auto;
+	right:auto;
+	center:auto;
 }
 container{
 width: 695px;
