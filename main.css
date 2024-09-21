@@ -4,13 +4,13 @@
 	box-sizing: border-box;
 }
 body{
-	background: url("sitebackground.png") no-repeat fixed center right;
 	width:auto;
 	height:auto;
 	margin:auto;
-	left: auto;
+	left:auto;
 	right:auto;
 	center:auto;
+	top:auto;
 }
 container{
 width: 695px;
