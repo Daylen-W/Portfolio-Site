@@ -4,9 +4,9 @@
 	box-sizing: border-box;
 }
 body{
-	background: url("sitebackground.png") no-repeat fixed top right;
-	width:auto;
-	height:auto;
+	background: url("sitebackground.png") no-repeat fixed center right;
+	width:1265;
+	height:695;
 }
 container{
 width: 695px;
