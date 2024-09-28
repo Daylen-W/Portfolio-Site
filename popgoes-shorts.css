@@ -12,3 +12,9 @@ body {
 	margin: 0px 10px 5px 15px;
 	padding: 5px 10px 20px 20px;
 }
+.button{
+	float: auto;
+	margin: 0px 0px 0px 0px;
+	padding: 5px 5px 5px 5px;
+	background-color:#C1F5CD;
+}
