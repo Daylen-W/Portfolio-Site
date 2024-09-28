@@ -12,6 +12,9 @@ body{
 	center:auto;
 	top:auto;
 }
+header{
+	align-content:space-between;
+}
 container{
 width: 695px;
 	margin: 0 auto;
@@ -40,17 +43,15 @@ width: 695px;
 	padding: 0px 30px 30px 30px;
 	border: solid 2.5px #c5fade;
 }
-.top{
-	width:320px;
-	height: 25px;
+.navi{
+	width:350px;
+	height: 65px;
 	background-color: #69A386;
 	border-radius: 5px;
-	float: center;
-	margin: 0px 0px 10px 0px;
-	padding: 0px 30px 30px 30px;
+	margin: 5px 0px 10px 15px;
+	padding: -0px 5px 15px 15px;
 	border: solid 2.5px #c5fade;
 }
-
 footer{
 	background-color: #a1c4b3;
 	clear: both;
