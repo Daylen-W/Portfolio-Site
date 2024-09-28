@@ -1,3 +1,14 @@
 @charset "utf-8";
 /* CSS Document */
-
+body {
+    background-color: #000000;
+}
+.left{
+	width:480px;
+	height: 390px;
+	background-color:#2E6446;
+	border-radius: 6px;
+	float: left;
+	margin: 0px 10px 5px 15px;
+	padding: 5px 10px 20px 20px;
+}
