@@ -1,5 +1,18 @@
 @charset "utf-8";
 /* CSS Document */
+
+.flex-container {
+  display: flex;
+  background-color: #5EF495;
+}
+
+.flex-container > div {
+  background-color: #f1f1f1;
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+}
+
 body {
     background-color: #366544;
 }
