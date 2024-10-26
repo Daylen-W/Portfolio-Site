@@ -1,4 +1,5 @@
 @charset "utf-8";
+@import url("aboutme.css");
 /* CSS Document */
 
 .flex-container {
@@ -24,8 +25,8 @@ body {
 	height: 390px;
 	background-color:#256646;
 	border-radius: 6px;
-	float: left;
-	margin: 0px 10px 5px 15px;
+	float: auto;
+	margin: auto;
 	padding: 5px 10px 20px 20px;
 	border: solid 2.5px #c5fade;
 }
