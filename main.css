@@ -22,12 +22,12 @@ width: 695px;
 }
 
 .left{
-	width:480px;
-	height: 390px;
+	width:700px;
+	height: 700px;
 	background-color:#256646;
 	border-radius: 6px;
 	float: left;
-	margin: 0px 10px 5px 15px;
+	margin: auto;
 	padding: 5px 10px 20px 20px;
 	border: solid 2.5px #c5fade;
 	
@@ -39,7 +39,7 @@ width: 695px;
 	background-color: #256646;
 	border-radius: 5px;
 	float: left;
-	margin: 0px 0px 10px 0px;
+	margin: 0px 30px 30px 30px;
 	padding: 0px 30px 30px 30px;
 	border: solid 2.5px #c5fade;
 }
@@ -48,7 +48,7 @@ width: 695px;
 	height: 65px;
 	background-color: #69A386;
 	border-radius: 5px;
-	margin: 5px 0px 10px 15px;
+	margin: auto;
 	padding: -0px 5px 15px 15px;
 	border: solid 2.5px #c5fade;
 }
