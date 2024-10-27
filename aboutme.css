@@ -40,3 +40,40 @@ body {
 .storyimages{
 	margin: auto;
 }
+.navi{
+	width:350px;
+	height: 65px;
+	background-color: #69A386;
+	border-radius: 5px;
+	margin: auto;
+	padding: -0px 5px 15px 15px;
+	border: solid 2.5px #c5fade;
+}
+/*nav bar*/
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #486F57;
+}
+
+nav li {
+  float: left;
+}
+
+nav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+nav li a:hover:not(.active) {
+  background-color: #111;
+}
+
+nav .active {
+  background-color: #04AA6D;
+}
