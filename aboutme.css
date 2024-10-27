@@ -49,6 +49,21 @@ body {
 	padding: -0px 5px 15px 15px;
 	border: solid 2.5px #c5fade;
 }
+a:link{
+	text-decoration: none
+}
+a:visted{
+	text-decoration: none;
+	text-decoration-color:#B6FFB8;
+}
+a:hover{
+	text-decoration: underline;
+	text-decoration-color:#D2F8DC;
+}
+a:active{
+	text-decoration: underline;
+	text-decoration-color:#6BFFAF;
+}
 /*nav bar*/
 nav ul {
   list-style-type: none;

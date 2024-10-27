@@ -76,6 +76,7 @@ a:hover{
 }
 a:active{
 	text-decoration: underline;
+	text-decoration-color:#6BFFAF;
 }
 /*nav bar*/
 nav ul {
